@@ -23,24 +23,24 @@ node-rds-app/
 ```
 git clone https://github.com/aakansha113/Node-RDS-App.git
 ```
-### step1:Install Dependencies (Optional for Local Run):
+### step 1: Install Dependencies (Optional for Local Run):
 ```
 npm install
 node src/server.js
 ```
 
-### Step2:Build and Run Docker Image:
+### Step 2: Build and Run Docker Image:
 ```
 docker build -t node-rds-app .
 ```
-### Step3:AWS RDS Setup:
+### Step 3: AWS RDS Setup:
 -Create an RDS instance (MySQL)
 
 -Note endpoint, username, password
 
 -Update EC2 security group to allow inbound MySQL (3306)
 
-### Step4:Deploy on AWS EC2:
+### Step 4: Deploy on AWS EC2:
 
 ### Step 1: Launch EC2 Instance:
 Amazon Linux 2 or Ubuntu
