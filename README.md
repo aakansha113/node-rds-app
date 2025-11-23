@@ -1,5 +1,5 @@
 # Node-RDS-App
-
+A simple node application using rds.
 ### Project Structure
 
 node-rds-app/
