@@ -34,11 +34,11 @@ node src/server.js
 docker build -t node-rds-app .
 ```
 ### Step 3: AWS RDS Setup:
--Create an RDS instance (MySQL)
+-Create an RDS instance (MySQL).
 
--Note endpoint, username, password
+-Note endpoint, username, password.
 
--Update EC2 security group to allow inbound MySQL (3306)
+-Update EC2 security group to allow inbound MySQL (3306).
 
 ### Step 4: Deploy on AWS EC2:
 
