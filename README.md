@@ -21,7 +21,7 @@ node-rds-app/
 ### 📥 Clone This Repository
 #### To clone this portfolio on your local system, run:
 ```
-https://github.com/aakansha113/Node-RDS-App.git
+git clone https://github.com/aakansha113/Node-RDS-App.git
 ```
 ### step1:Install Dependencies (Optional for Local Run):
 ```
